@@ -22,6 +22,8 @@ I am a QA Engineer with a passion for high quality software and an obsession for
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GitTestingPat&icon=2&color=11)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GitTestingPat&label=Profile%20Views&color=11&icon=0&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
