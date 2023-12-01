@@ -4,7 +4,7 @@ Skill set encompasses a broad spectrum of both manual and automated evaluation t
 Uncover and rectify issues throughout the various phases of the software development process.<br>
 Convictioned in the notion that examination is crucial for the success of every software endeavor.<br>
 <br>
-Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. Perceived the caliber of software as a testament to the team's zeal and meticulousness.<br>
+Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. Viewed the quality of software as an indicator of the team's vigor and precision.<br>
 <br>
 Liked in progressive, innovative teams bound by a common aspiration for software superiority. Enthusiastic about participating in ventures that push my capabilities and nurture professional development.<br>
 <br>
