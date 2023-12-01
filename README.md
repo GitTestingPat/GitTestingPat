@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am a QA Engineer with a passion for high quality software and an obsession for details. My mission is to ensure that every software product is a masterpiece of functionality and reliability.<br><br>My skills include proficiency in manual and automated testing tools, allowing me to efficiently identify and resolve issues at all stages of the software development cycle. I am a firm believer that rigorous testing is essential to the success of any software project.<br><br>My focus goes beyond bug detection. I look for opportunities to improve the user experience, efficiency and robustness of applications. I believe that the quality of the software is a reflection of the dedication and commitment of the team behind it.<br><br>I am eager to join dynamic and evolving teams that share my passion for excellence in software development. I am excited about the possibility of collaborating on exciting projects that challenge my skills and allow me to grow as a professional.<br><br>If you're looking for someone to not only test your software, but also improve it, I'm ready to be part of your team - together we can create world-class software!<br>
+Software quality through thorough and exhaustive examination?. Yes, of course.<br>
+Skill set encompasses a broad spectrum of both manual and automated evaluation techniques?. Indeed.<br>
+Uncover and rectify issues throughout the various phases of the software development process?. That´s right.<br>
+Convictioned in the notion that examination is crucial for the success of every software endeavor?. Exactly.<br>
+<br>
+Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. Perceived the caliber of software as a testament to the team's zeal and meticulousness.<br>
+<br>
+Liked in progressive, innovative teams bound by a common aspiration for software superiority. Enthusiastic about participating in ventures that push my capabilities and nurture professional development.<br>
+<br>
+Quest for a team that prioritizes not merely testing but holistic software enhancement, committed to contributing towards the crafting of software solutions.
+
 
 
 ## 🌐 Socials:
