@@ -57,6 +57,7 @@ Lo siento, parece que no entendí correctamente lo que me estabas pidiendo. Deb�
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/XRay-00bbff?style=for-the-badge&logo=XRay&logoColor=white" alt="Xray" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
 Cada logo está incluido como una etiqueta `<img>` dentro de una etiqueta `<p>` con alineación central. Las URLs de las imágenes son las mismas que proporcionaste originalmente.
