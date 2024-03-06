@@ -60,10 +60,6 @@ Lo siento, parece que no entendí correctamente lo que me estabas pidiendo. Deb�
   <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
-Cada logo está incluido como una etiqueta `<img>` dentro de una etiqueta `<p>` con alineación central. Las URLs de las imágenes son las mismas que proporcionaste originalmente.
-
-Espero que esto sea lo que estabas buscando. Por favor, hazme saber si hay algo más que pueda hacer para ayudarte.
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=false)<br/>
