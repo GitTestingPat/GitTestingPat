@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software quality through thorough and exhaustive examination.<br>
+Software quality thorough and exhaustive examination.<br>
 Skill set encompasses a broad spectrum of both manual and automated evaluation techniques.<br>
 Uncover and rectify issues throughout the various phases of the software development process.<br>
 Convictioned in the notion that examination is crucial for the success of every software endeavor.<br>
