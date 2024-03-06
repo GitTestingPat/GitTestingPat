@@ -1,18 +1,23 @@
 # 💫 About Me:
 Software quality thorough and exhaustive examination.
 <br>
+<br>
 Skill set encompasses a broad spectrum of both manual and automated evaluation techniques.
 <br>
+<br>
 Uncover and rectify issues throughout the various phases of the software development process.
+<br>
 <br>
 Convictioned in the notion that examination is crucial for the success of every software endeavor.
 <br>
 <br>
-Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. Viewed the quality of software as an indicator of the team's vigor and precision.<br>
+Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. View the quality of software as an indicator of the team's vigor and precision.
 <br>
-Liked in progressive, innovative teams bound by a common aspiration for software superiority. Enthusiastic about participating in ventures that push my capabilities and nurture professional development.<br>
 <br>
-Quest for a team that prioritizes not merely testing but holistic software enhancement, committed to contributing towards the crafting of software solutions.
+Liked in progressive, innovative teams bound by a common aspiration for software superiority. Enthusiastic about participating in projects that push capabilities and nurture professional development.
+<br>
+<br>
+Quest for a team that prioritizes not merely testing but holistic software enhancement.
 
 
 
