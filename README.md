@@ -1,9 +1,12 @@
 # 💫 About Me:
 Software quality thorough and exhaustive examination.
 <br>
-Skill set encompasses a broad spectrum of both manual and automated evaluation techniques.<br>
-Uncover and rectify issues throughout the various phases of the software development process.<br>
-Convictioned in the notion that examination is crucial for the success of every software endeavor.<br>
+Skill set encompasses a broad spectrum of both manual and automated evaluation techniques.
+<br>
+Uncover and rectify issues throughout the various phases of the software development process.
+<br>
+Convictioned in the notion that examination is crucial for the success of every software endeavor.
+<br>
 <br>
 Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. Viewed the quality of software as an indicator of the team's vigor and precision.<br>
 <br>
