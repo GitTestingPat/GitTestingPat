@@ -25,7 +25,6 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/patricgallardo) 
 
 # 💻 Tech Stack:
-Lo siento, parece que no entendí correctamente lo que me estabas pidiendo. Debí haber incluido los mismos logos que proporcionaste originalmente, en lugar de utilizar los iconos de skillicons.dev. Déjame corregir eso ahora. Aquí está el código con los logos originales organizados en una estructura de pirámide invertida:
 
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
