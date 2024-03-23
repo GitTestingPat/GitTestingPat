@@ -78,4 +78,4 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
   <img src="https://visitcount.itsvg.in/api?id=GitTestingPat&label=Profile%20Views&color=11&icon=0&pretty=true" />
 </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
