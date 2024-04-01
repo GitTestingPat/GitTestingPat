@@ -81,7 +81,6 @@ Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and A
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/BlazeMeter-CA4245?style=for-the-badge&logo=BlazeMeter&logoColor=white" alt="BlazeMeter" />
-  <img src="https://img.shields.io/badge/JMeter-%23CF2900.svg?style=for-the-badge&logo=ApacheJmeter&logoColor=white" alt="JMeter" />
   
 </p>
 <p align="center">
