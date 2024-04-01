@@ -21,23 +21,23 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
 <br>
 <br>
 # **Manifesto for Agile**
-Software Development
-We are uncovering better ways
-of developing software by doing
-it and helping others do it.
-Through this work we have
-come to value:
-Individuals and interactions over
-processes and tools
-Working software over
-comprehensive documentation
-Customer collaboration over
-contract negotiation
-Responding to change over
-following a plan
-That is, while there is value
-in the items on the right,
-we value the items on the left more.
+Software Development<br>
+We are uncovering better ways<br>
+of developing software by doing<br>
+it and helping others do it.<br>
+Through this work we have<br>
+come to value:<br>
+Individuals and interactions over<br>
+processes and tools<br>
+Working software over<br>
+comprehensive documentation<br>
+Customer collaboration over<br>
+contract negotiation<br>
+Responding to change over<br>
+following a plan<br>
+That is, while there is value<br>
+in the items on the right,<br>
+we value the items on the left more.<br>
 <br>
 <br>
 Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and Agile Teams.
