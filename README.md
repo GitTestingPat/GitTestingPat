@@ -42,7 +42,7 @@ we value the items on the left more.<br>
 
 Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and Agile Teams.
 
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/patricgallardo) 
