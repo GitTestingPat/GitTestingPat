@@ -93,7 +93,7 @@ Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and A
   <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/CICD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CI//CD" />
+  <img src="https://img.shields.io/badge/CICD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
   <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
   
