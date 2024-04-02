@@ -56,8 +56,9 @@ Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and A
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/mac%20terminal-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Mac Terminal" />
+  
   
 </p>
 <p align="center">
@@ -91,6 +92,9 @@ Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and A
   <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/CICD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
   
 </p>
 
