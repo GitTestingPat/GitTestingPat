@@ -81,6 +81,7 @@ Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and A
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Selenium%20IDE-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium IDE" />
   <img src="https://img.shields.io/badge/BlazeMeter-CA4245?style=for-the-badge&logo=BlazeMeter&logoColor=white" alt="BlazeMeter" />
   
 </p>
