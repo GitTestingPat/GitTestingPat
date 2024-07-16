@@ -40,7 +40,7 @@ in the items on the right,<br>
 we value the items on the left more.<br>
 <br>
 
-Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and Agile Teams.
+
 
 <br>
 
