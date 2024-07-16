@@ -110,8 +110,8 @@ Lisa Crispin & Janet Gregory. Agile Testing. A Practical Guide for Testers and A
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GitTestingPat&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h3>😂 Random Dev Meme</h3>
-<img src="https://randommeme-five.vercel.app/" alt="Random Developer Meme" style="max-width: 100%; height: auto;">
+### 😂 Dev Meme of the Day
+<img src="https://i.imgur.com/tD00ZX2.png" alt="Developer Meme" style="max-width: 300px; height: auto;">
 
 ---
 <a href="https://visitcount.itsvg.in">
