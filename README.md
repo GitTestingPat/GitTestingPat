@@ -24,19 +24,10 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
 **Software Development**
 <br>
 <br>
-**We are uncovering better ways**
+**We are uncovering better ways of developing software by doing it and helping others do it**.
 <br>
 <br>
-**of developing software by doing**
-<br>
-<br>
-**it and helping others do it**.
-<br>
-<br>
-**Through this work we have**
-<br>
-<br>
-**come to value**:
+**Through this work we have come to value**:
 <br>
 <br>
 **- Individuals and interactions over processes and tools**
@@ -51,10 +42,7 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
 **- Responding to change over following a plan**
 <br>
 <br>
-**That is, while there is value in the items on the right**,
-<br>
-<br>
-**we value the items on the left more**.
+**That is, while there is value in the items on the right, we value the items on the left more**.
 <br>
 <br>
 <br>
