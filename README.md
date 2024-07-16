@@ -21,23 +21,23 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
 <br>
 <br>
 # **Manifesto for Agile**
-Software Development<br>
-We are uncovering better ways<br>
-of developing software by doing<br>
-it and helping others do it.<br>
-Through this work we have<br>
-come to value:<br>
-Individuals and interactions over<br>
-processes and tools<br>
-Working software over<br>
-comprehensive documentation<br>
-Customer collaboration over<br>
-contract negotiation<br>
-Responding to change over<br>
-following a plan<br>
-That is, while there is value<br>
-in the items on the right,<br>
-we value the items on the left more.<br>
+**Software Development**<br>
+**We are uncovering better ways**<br>
+**of developing software by doing**<br>
+**it and helping others do it**.<br>
+**Through this work we have**<br>
+**come to value**:<br>
+**Individuals and interactions over**<br>
+**processes and tools**<br>
+**Working software over**<br>
+**comprehensive documentation**<br>
+**Customer collaboration over**<br>
+**contract negotiation**<br>
+**Responding to change over**<br>
+**following a plan**<br>
+**That is, while there is value**<br>
+**in the items on the right**,<br>
+**we value the items on the left more**.<br>
 <br>
 
 
