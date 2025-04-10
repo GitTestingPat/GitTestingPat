@@ -114,9 +114,5 @@ Quest for a team that prioritizes not merely testing but holistic software enhan
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GitTestingPat&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=GitTestingPat&label=Profile%20Views&color=11&icon=0&pretty=true" />
-</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
