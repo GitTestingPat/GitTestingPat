@@ -1,23 +1,26 @@
 # 💫 About Me:
-Software quality thorough and exhaustive examination.
+For me, testing software is not about following scripts or mastering tools, but about constantly questioning, investigating and learning. 
 <br>
 <br>
-Skill set encompasses a broad spectrum of both manual and automated evaluation techniques.
+I understand testing as a cognitive process where curiosity, systematic skepticism and contextual interpretation are the basis.
 <br>
 <br>
-Uncover and rectify issues throughout the various phases of the software development process.
+My principles:
 <br>
 <br>
-Convictioned in the notion that examination is crucial for the success of every software endeavor.
+- Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
 <br>
 <br>
-Devoted to augmenting the user interface, operational performance, and overall sturdiness of applications. View the quality of software as an indicator of the team's vigor and precision.
+- Quality is not a step in the process, it is an ongoing conversation: I work with teams that see testing as a source of valuable information, not as a control barrier.
 <br>
 <br>
-Liked in progressive, innovative teams bound by a common aspiration for software superiority. Enthusiastic about participating in projects that push capabilities and nurture professional development.
+- Tools are secondary, reasoning is paramount: To automate without first exploring is to build on unvalidated assumptions. I prefer lightweight, adaptable tools that amplify - not replace - my judgment.
 <br>
 <br>
-Quest for a team that prioritizes not merely testing but holistic software enhancement.
+- The best tester is the one who improves the team's thinking: more than finding bugs, I help to develop critical thinking in developers, designers and stakeholders.
+<br>
+<br>
+I look for teams that value uncomfortable questions, where “we don't know” is the starting point for discovery. If your priority is software as a product of collective reasoning (not as a finished artifact), let's talk.
 <br>
 <br>
 # **Manifesto for Agile**
