@@ -7,6 +7,7 @@ I understand testing as a cognitive process where curiosity, systematic skeptici
 <br>
 
 My principles:
+
 <br>
 <br>
 
