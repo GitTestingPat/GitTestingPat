@@ -8,7 +8,8 @@ I understand testing as a cognitive process where curiosity, systematic skeptici
 
 My principles:
 <br>
-- Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
+
+Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
 <br>
 <br>
 - Quality is not a step in the process, it is an ongoing conversation: I work with teams that see testing as a source of valuable information, not as a control barrier.
