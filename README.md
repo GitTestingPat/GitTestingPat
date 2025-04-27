@@ -23,7 +23,7 @@ My principles:
 I look for teams that value uncomfortable questions, where “we don't know” is the starting point for discovery. If your priority is software as a product of collective reasoning (not as a finished artifact), let's talk.
 <br>
 <br>
-# **Manifesto for Agile**
+**Manifesto for Agile**
 **Software Development**
 <br>
 <br>
