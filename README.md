@@ -7,18 +7,13 @@ I understand testing as a cognitive process where curiosity, systematic skeptici
 <br>
 
 My principles:
+<br>- Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
 <br>
-
-Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
+<br>- Quality is not a step in the process, it is an ongoing conversation: I work with teams that see testing as a source of valuable information, not as a control barrier.
 <br>
+<BR>- Tools are secondary, reasoning is paramount: To automate without first exploring is to build on unvalidated assumptions. I prefer lightweight, adaptable tools that amplify - not replace - my judgment.
 <br>
-- Quality is not a step in the process, it is an ongoing conversation: I work with teams that see testing as a source of valuable information, not as a control barrier.
-<br>
-<br>
-- Tools are secondary, reasoning is paramount: To automate without first exploring is to build on unvalidated assumptions. I prefer lightweight, adaptable tools that amplify - not replace - my judgment.
-<br>
-<br>
-- The best tester is the one who improves the team's thinking: more than finding bugs, I help to develop critical thinking in developers, designers and stakeholders.
+<BR>- The best tester is the one who improves the team's thinking: more than finding bugs, I help to develop critical thinking in developers, designers and stakeholders.
 <br>
 <br>
 I look for teams that value uncomfortable questions, where “we don't know” is the starting point for discovery. If your priority is software as a product of collective reasoning (not as a finished artifact), let's talk.
