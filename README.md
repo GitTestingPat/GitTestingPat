@@ -7,10 +7,7 @@ I understand testing as a cognitive process where curiosity, systematic skeptici
 <br>
 
 My principles:
-
 <br>
-<br>
-
 - Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
 <br>
 <br>
