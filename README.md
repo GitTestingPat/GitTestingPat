@@ -46,7 +46,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 **That is, while there is value in the items on the right, we value the items on the left more**.
 <br>
 <br>
-                                                                  "Lisa Crispin and Janet Gregory".
+"Lisa Crispin and Janet Gregory".
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/patricgallardo) 
