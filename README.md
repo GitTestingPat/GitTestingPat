@@ -47,7 +47,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 <br>
 <br>
 <br>
-
+"Lisa Crispin and Janet Gregory"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/patricgallardo) 
