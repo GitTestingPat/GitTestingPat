@@ -1,12 +1,12 @@
-# 💫 About Me:
-For me, testing software is not about following scripts or mastering tools, but about constantly questioning, investigating and learning. 
+# 💫 About testing:
+Is not about following scripts or mastering tools, but about constantly questioning, investigating and learning. 
 <br>
 <br>
-I understand testing as a cognitive process where curiosity, systematic skepticism and contextual interpretation are the basis.
+Testing as a cognitive process where curiosity, systematic skepticism and contextual interpretation are the basis.
 <br>
 <br>
 
-**My principles**:
+**Principles**:
 <br>
 <br>- Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
 <br>
