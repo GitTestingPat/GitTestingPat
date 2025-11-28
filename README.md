@@ -100,6 +100,33 @@ I look for teams that value uncomfortable questions, where “we don't know” i
   <img src="https://img.shields.io/badge/CICD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
   <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
+
+  <!-- IDEs -->
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+
+<!-- Proxy Tools -->
+<img src="https://img.shields.io/badge/Proxyman-6C5CE7?style=for-the-badge&logo=proxyman&logoColor=white" alt="Proxyman" />
+<img src="https://img.shields.io/badge/Charles-F3F3F3?style=for-the-badge&logo=charles&logoColor=black" alt="Charles" />
+
+<!-- Testing & Performance -->
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+
+<!-- CI/CD -->
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+
+<!-- Automation Frameworks -->
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+
+<!-- BDD Frameworks -->
+<img src="https://img.shields.io/badge/Behave-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Behave" />
+<img src="https://img.shields.io/badge/Pytest--BDD-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest-BDD" />
+
+<!-- Virtualization & Security -->
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   
 </p>
 
