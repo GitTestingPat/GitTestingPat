@@ -226,7 +226,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=GitTestingPat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=GitTestingPat&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_title=true" />
 </p>
 
 ---
