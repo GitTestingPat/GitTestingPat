@@ -27,17 +27,7 @@ Testing as a cognitive process where curiosity, systematic skepticism and contex
 
 - **The best tester is the one who improves the team's thinking**: more than finding bugs, I help to develop critical thinking in developers, designers and stakeholders.
 
-I look for teams that value uncomfortable questions, where "we don't know" is the starting point for discovery. If your priority is software as a product of collective reasoning (not as a finished artifact), let's talk.
-
----
-
-## 🎯 Currently
-
-- 🔭 Working on **Test Automation Frameworks with Selenium & Pytest**
-- 🌱 Learning **Playwright & Performance Testing with JMeter**
-- 👯 Open to collaborate on **QA & Testing projects**
-- 💬 Ask me about **Test Strategy, BDD, CI/CD Pipelines**
-- ⚡ Fun fact: **I break software so you don't have to**
+I'm useful to teams that ship under pressure and need someone who can find real risks fast—without slowing things down or hiding behind process.
 
 ---
 
