@@ -133,6 +133,13 @@ I look for teams that value uncomfortable questions, where “we don't know” i
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
+<!-- 📦 Gestores de Paquetes & Dependencias -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</p>
+
 <!-- 🖥️ Sistemas & Virtualización -->
 <p align="center">
   <img src="https://img.shields.io/badge/mac%20terminal-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Mac Terminal" />
