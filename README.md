@@ -1,59 +1,80 @@
-# 💫 About testing:
-Is not about following scripts or mastering tools, but about constantly questioning, investigating and learning. 
-<br>
-<br>
+<!-- Header con typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=QA+Engineer+%7C+Test+Automation;Selenium+%7C+Pytest+%7C+Playwright;Critical+Thinking+%26+Quality+Advocate" alt="Typing SVG" />
+</p>
+
+<!-- Vista de perfil y seguidores -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GitTestingPat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/GitTestingPat?label=Followers&style=for-the-badge&color=green" alt="Followers" />
+</p>
+
+---
+
+# 💫 About Testing
+
+Is not about following scripts or mastering tools, but about constantly questioning, investigating and learning.
+
 Testing as a cognitive process where curiosity, systematic skepticism and contextual interpretation are the basis.
-<br>
-<br>
 
 **Principles**:
-<br>
-<br>- Testing is an intellectual activity: no “automated” thinking or delegated observation. Every test is a question about software behavior.
-<br>
-<br>- Quality is not a step in the process, it is an ongoing conversation: I work with teams that see testing as a source of valuable information, not as a control barrier.
-<br>
-<BR>- Tools are secondary, reasoning is paramount: To automate without first exploring is to build on unvalidated assumptions. I prefer lightweight, adaptable tools that amplify - not replace - my judgment.
-<br>
-<BR>- The best tester is the one who improves the team's thinking: more than finding bugs, I help to develop critical thinking in developers, designers and stakeholders.
-<br>
-<br>
-I look for teams that value uncomfortable questions, where “we don't know” is the starting point for discovery. If your priority is software as a product of collective reasoning (not as a finished artifact), let's talk.
-<br>
-<br>
 
-# **Manifesto for Agile**
-**Software Development**
-<br>
-<br>
+- **Testing is an intellectual activity**: no "automated" thinking or delegated observation. Every test is a question about software behavior.
+
+- **Quality is not a step in the process, it is an ongoing conversation**: I work with teams that see testing as a source of valuable information, not as a control barrier.
+
+- **Tools are secondary, reasoning is paramount**: To automate without first exploring is to build on unvalidated assumptions. I prefer lightweight, adaptable tools that amplify - not replace - my judgment.
+
+- **The best tester is the one who improves the team's thinking**: more than finding bugs, I help to develop critical thinking in developers, designers and stakeholders.
+
+I look for teams that value uncomfortable questions, where "we don't know" is the starting point for discovery. If your priority is software as a product of collective reasoning (not as a finished artifact), let's talk.
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working on **Test Automation Frameworks with Selenium & Pytest**
+- 🌱 Learning **Playwright & Performance Testing with JMeter**
+- 👯 Open to collaborate on **QA & Testing projects**
+- 💬 Ask me about **Test Strategy, BDD, CI/CD Pipelines**
+- ⚡ Fun fact: **I break software so you don't have to**
+
+---
+
+# 📜 Manifesto for Agile Software Development
+
 **We are uncovering better ways of developing software by doing it and helping others do it**.
-<br>
-<br>
+
 **Through this work we have come to value**:
-<br>
-<br>
-**- Individuals and interactions over processes and tools**
-<br>
-<br>
-**- Working software over comprehensive documentation**
-<br>
-<br>
-**- Customer collaboration over contract negotiation**
-<br>
-<br>
-**- Responding to change over following a plan**
-<br>
-<br>
+
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
+
 **That is, while there is value in the items on the right, we value the items on the left more**.
-<br>
-<br>
- _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/patricgallardo) 
+_<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
-# 💻 Tech Stack:
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://linkedin.com/in/patricgallardo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/GitTestingPat">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 <!-- 💻 Lenguajes de Programación -->
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -64,6 +85,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 </p>
 
 <!-- 🛠️ IDEs & Editores -->
+<h3 align="center">🛠️ IDEs & Editors</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
@@ -74,6 +96,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 </p>
 
 <!-- 🧪 Testing & Automatización -->
+<h3 align="center">🧪 Testing & Automation</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
@@ -85,6 +108,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 </p>
 
 <!-- 🔌 API Testing & Proxy -->
+<h3 align="center">🔌 API Testing & Proxy</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
@@ -94,19 +118,30 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 </p>
 
 <!-- ⚡ Performance Testing -->
+<h3 align="center">⚡ Performance Testing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
   <img src="https://img.shields.io/badge/BlazeMeter-CA4245?style=for-the-badge&logo=BlazeMeter&logoColor=white" alt="BlazeMeter" />
 </p>
 
 <!-- 🚀 CI/CD & Control de Versiones -->
+<h3 align="center">🚀 CI/CD & Version Control</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
+<!-- 📦 Gestores de Paquetes & Dependencias -->
+<h3 align="center">📦 Package Managers & Dependencies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</p>
+
 <!-- 📋 Gestión de Proyectos -->
+<h3 align="center">📋 Project Management</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
@@ -118,6 +153,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 </p>
 
 <!-- 📝 Documentación & Diseño -->
+<h3 align="center">📝 Documentation & Design</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
@@ -128,19 +164,14 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 </p>
 
 <!-- 💬 Comunicación -->
+<h3 align="center">💬 Communication</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
-<!-- 📦 Gestores de Paquetes & Dependencias -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</p>
-
 <!-- 🖥️ Sistemas & Virtualización -->
+<h3 align="center">🖥️ Systems & Virtualization</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mac%20terminal-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Mac Terminal" />
   <img src="https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2" />
@@ -148,14 +179,69 @@ I look for teams that value uncomfortable questions, where “we don't know” i
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 🎓 Certifications & Learning
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GitTestingPat&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/TripleTen-QA_Bootcamp-blue?style=for-the-badge" alt="TripleTen" />
+  <img src="https://img.shields.io/badge/Test_Automation-Selenium_&_Pytest-43B02A?style=for-the-badge" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/BDD-Behave_&_Pytest--BDD-3776AB?style=for-the-badge" alt="BDD" />
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=GitTestingPat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Quality is not an act, it is a habit."</i> — Aristotle
+</p>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer" />
