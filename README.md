@@ -136,6 +136,7 @@ I look for teams that value uncomfortable questions, where “we don't know” i
 <!-- 🖥️ Sistemas & Virtualización -->
 <p align="center">
   <img src="https://img.shields.io/badge/mac%20terminal-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Mac Terminal" />
+  <img src="https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
