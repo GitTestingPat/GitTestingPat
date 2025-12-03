@@ -6,7 +6,7 @@
 <!-- Métricas de perfil -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTestingPat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/QA%20Engineer-Test%20Automation-3DDC84?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Software%20Tester-Test%20Analysis-3DDC84?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge" alt="Public Repos" />
 </p>
 
