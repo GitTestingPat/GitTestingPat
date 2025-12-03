@@ -5,7 +5,7 @@
 
 <!-- Métricas de perfil -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STANCE-Probing-9B59B6?style=for-the-badge" alt="Stance" />
+  <img src="https://img.shields.io/badge/Principle-Automation%20in%20Service%20of%20Doubt-8E44AD?style=for-the-badge" alt="Testing in Service of Doubt" />
   <img src="https://img.shields.io/badge/Probing%20Systems-Risk%20Alert-3DDC84?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge" alt="Public Repos" />
 </p>
