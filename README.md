@@ -1,6 +1,6 @@
 <!-- Header con typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=Software+Tester+%7C+Test+Automation;Selenium+%7C+Pytest+%7C;Investigate+Exploration+%26+Probing+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=Software+Tester+%7C+Test+Automation;Selenium+%7C+Pytest+%7C+;Investigate+Exploration+%26+Probing+Advocate" alt="Typing SVG" />
 </p>
 
 <!-- Vista de perfil y seguidores -->
