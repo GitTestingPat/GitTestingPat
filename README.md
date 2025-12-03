@@ -230,7 +230,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ---
 
 <p align="center">
-  <i>"Quality is not an act, it is a habit."</i> — Aristotle
+  <i>"Why is there something rather than nothing."</i> — Leibniz.
 </p>
 
 <!-- Footer wave -->
