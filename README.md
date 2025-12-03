@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=Software+Tester+%7C+Test+Automation;Selenium+%7C+Pytest;Investigate%2C+Explore+%26+Probe" alt="Typing SVG" />
 </p>
 
-<!-- Vista de perfil y seguidores -->
+<!-- Métricas de perfil -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTestingPat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/GitTestingPat?label=Followers&style=for-the-badge&color=green" alt="Followers" />
+  <img src="https://img.shields.io/github/commit-activity/y/GitTestingPat/GitTestingPat?label=Commits%20(Year)&style=for-the-badge&color=orange" alt="Commits per year" />
+  <img src="https://img.shields.io/github/repositories/GitTestingPat?label=Public%20Repos&style=for-the-badge&color=blue" alt="Public Repos" />
 </p>
 
 ---
