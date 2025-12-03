@@ -5,7 +5,7 @@
 
 <!-- Métricas de perfil -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GitTestingPat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Mindset-Exploratory%20%7C%20Inquisitive-FF6B6B?style=for-the-badge" alt="Mindset" />
   <img src="https://img.shields.io/badge/Probing%20Systems-Risk%20Alert-3DDC84?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge" alt="Public Repos" />
 </p>
