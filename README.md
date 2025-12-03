@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTestingPat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/commit-activity/y/GitTestingPat/GitTestingPat?label=Commits%20(Year)&style=for-the-badge&color=orange" alt="Commits per year" />
-  <img src="https://img.shields.io/github/repositories/GitTestingPat?label=Public%20Repos&style=for-the-badge&color=blue" alt="Public Repos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 ---
