@@ -180,33 +180,21 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <img src="https://img.shields.io/badge/BDD-Behave_&_Pytest--BDD-3776AB?style=for-the-badge" alt="BDD" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
+![trophy](https://github-profile-trophy.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![stats](https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=false&layout=compact)
 
 ## 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=react-dark&bg_color=20232a&hide_border=false&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true)
-
----
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=github-compact)
 ## 🔝 Top Contributed Repo
 
 <p align="center">
