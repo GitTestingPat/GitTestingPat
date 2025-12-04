@@ -184,29 +184,30 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-trophies.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true&line_height=20)
-
-![](https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true&card_width=320)
-
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ## 🔝 Top Contributed Repo
 
