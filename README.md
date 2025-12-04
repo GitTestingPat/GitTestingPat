@@ -213,11 +213,22 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 🔝 My Key Projects
 
-[![qa-project-07-es](https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=qa-project-07-es&theme=radical&hide_border=true)](https://github.com/GitTestingPat/qa-project-07-es)
-[![music-art-ecommerce-api](https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=music-art-ecommerce-api&theme=radical&hide_border=true)](https://github.com/GitTestingPat/music-art-ecommerce-api)
-[![project-automation-cf](https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=project-automation-cf&theme=radical&hide_border=true)](https://github.com/GitTestingPat/project-automation-cf)
-[![sql_testing_project](https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=sql_testing_project&theme=radical&hide_border=true)](https://github.com/GitTestingPat/sql_testing_project)
-[![cypress-automation-framework](https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=cypress-automation-framework&theme=radical&hide_border=true)](https://github.com/GitTestingPat/cypress-automation-framework)
+## 🔝 My Key Projects
+
+- [**qa-project-07-es**](https://github.com/GitTestingPat/qa-project-07-es)  
+  API REST con autenticación JWT, MySQL, Swagger, paginación y subida de imágenes.
+
+- [**music-art-ecommerce-api**](https://github.com/GitTestingPat/music-art-ecommerce-api)  
+  API completa de e-commerce: productos, órdenes, roles, búsqueda y manejo de archivos.
+
+- [**project-automation-cf**](https://github.com/GitTestingPat/project-automation-cf)  
+  Framework de automatización: API (pytest + requests), Web UI (Selenium + POM), BDD (Behave), CI/CD y Allure Reports.
+
+- [**sql_testing_project**](https://github.com/GitTestingPat/sql_testing_project)  
+  156 tests automatizados para MySQL: CRUD, integridad, rendimiento y validación en bases `test_database` y `sakila`.
+
+- [**cypress-automation-framework**](https://github.com/GitTestingPat/cypress-automation-framework)  
+  Automatización E2E con Cypress (en desarrollo).
 
 ---
 
