@@ -213,20 +213,13 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 🔝 My Key Projects
 
-- [**qa-project-07-es**](https://github.com/GitTestingPat/qa-project-07-es)  
-  API REST con autenticación JWT, MySQL, Swagger, paginación y subida de imágenes.
-
-- [**music-art-ecommerce-api**](https://github.com/GitTestingPat/music-art-ecommerce-api)  
-  API completa de e-commerce: productos, órdenes, roles, búsqueda y manejo de archivos.
-
-- [**project-automation-cf**](https://github.com/GitTestingPat/project-automation-cf)  
-  Framework de automatización: API (pytest + requests), Web UI (Selenium + POM), BDD (Behave), CI/CD y Allure Reports.
-
-- [**sql_testing_project**](https://github.com/GitTestingPat/sql_testing_project)  
-  156 tests automatizados para MySQL: CRUD, integridad, rendimiento y validación en bases `test_database` y `sakila`.
-
-- [**cypress-automation-framework**](https://github.com/GitTestingPat/cypress-automation-framework)  
-  Automatización E2E con Cypress (en desarrollo).
+| Project | Description |
+|--------|-------------|
+| [`qa-project-07-es`](https://github.com/GitTestingPat/qa-project-07-es) | API REST con JWT, MySQL, Swagger, búsqueda y subida de imágenes. |
+| [`music-art-ecommerce-api`](https://github.com/GitTestingPat/music-art-ecommerce-api) | E-commerce completo: autenticación, órdenes, roles, paginación y gestión de imágenes. |
+| [`project-automation-cf`](https://github.com/GitTestingPat/project-automation-cf) | Framework de automatización: API (pytest), Web UI (Selenium + POM), BDD (Behave), CI/CD y Allure. |
+| [`sql_testing_project`](https://github.com/GitTestingPat/sql_testing_project) | 156 tests automatizados para MySQL: CRUD, integridad, rendimiento y validación en `test_database` y `sakila`. |
+| [`cypress-automation-framework`](https://github.com/GitTestingPat/cypress-automation-framework) | Automatización E2E con Cypress (en desarrollo activo). |
 
 ---
 
