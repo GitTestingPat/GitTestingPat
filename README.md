@@ -193,23 +193,23 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GitTestingPat&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (Alternativa Funcional)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=GitTestingPat&theme=react-dark&hide_border=false&date_format=%Y-%m-%d" alt="Activity Graph" />
 </p>
 
 ---
