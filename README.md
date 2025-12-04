@@ -195,11 +195,11 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" width="450" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" width="495" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" width="450" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" width="495" />
 </div>
 
 ---
