@@ -180,21 +180,34 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <img src="https://img.shields.io/badge/BDD-Behave_&_Pytest--BDD-3776AB?style=for-the-badge" alt="BDD" />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-trophies.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=false)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true)](https://github.com/GitTestingPat)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GitTestingPat&theme=radical&hide_border=true)](https://github.com/GitTestingPat)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true)](https://github.com/GitTestingPat)
+
+</div>
+
+---
 
 ## 📈 Activity Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=github-compact)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true)](https://github.com/GitTestingPat)
+
+---
+
 ## 🔝 Top Contributed Repo
 
 <p align="center">
