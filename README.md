@@ -213,8 +213,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 🔝 My Key Projects
 
-## 🔝 My Key Projects
-
 - [**qa-project-07-es**](https://github.com/GitTestingPat/qa-project-07-es)  
   API REST con autenticación JWT, MySQL, Swagger, paginación y subida de imágenes.
 
