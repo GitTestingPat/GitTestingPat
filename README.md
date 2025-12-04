@@ -190,15 +190,17 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true&card_width=400)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true)
-
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
 
 ---
 
