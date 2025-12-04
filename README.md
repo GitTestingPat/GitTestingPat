@@ -192,11 +192,11 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true)](https://github.com/GitTestingPat)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GitTestingPat&theme=radical&hide_border=true)](https://github.com/GitTestingPat)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GitTestingPat&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true)](https://github.com/GitTestingPat)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -204,7 +204,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true)](https://github.com/GitTestingPat)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true)
 
 ---
 
