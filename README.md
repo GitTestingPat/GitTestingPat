@@ -191,15 +191,15 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" width="495" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" width="450" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" width="495" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" width="450" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" width="495" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" width="450" />
 </div>
 
 ---
