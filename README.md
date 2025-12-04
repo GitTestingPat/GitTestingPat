@@ -184,34 +184,29 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GitTestingPat&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GitTestingPat&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GitTestingPat&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=react-dark&bg_color=20232a&hide_border=false&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true)
 
+---
 ## 🔝 Top Contributed Repo
 
 <p align="center">
