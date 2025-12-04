@@ -185,7 +185,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" width="600" />
 </p>
 
 ---
@@ -193,12 +193,15 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
 </p>
 
 ---
@@ -206,7 +209,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" width="800" />
 </p>
 
 ## 🔝 Top Contributed Repo
