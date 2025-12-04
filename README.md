@@ -209,7 +209,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=react-dark&hide_border=true&area=true)
 </p>
 
 ---
