@@ -209,12 +209,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" width="800" />
-</p>
-
 ## 🔝 Top Contributed Repo
 
 <p align="center">
