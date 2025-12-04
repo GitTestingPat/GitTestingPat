@@ -194,7 +194,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GitTestingPat&theme=radical&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true)
 
@@ -204,7 +204,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 ---
 
