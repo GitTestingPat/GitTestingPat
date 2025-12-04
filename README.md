@@ -213,23 +213,23 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 🔝 My Key Projects
 
-<p align="center">
-  <a href="https://github.com/GitTestingPat/qa-project-07-es" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=qa-project-07-es&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitTestingPat/music-art-ecommerce-api" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=music-art-ecommerce-api&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitTestingPat/project-automation-cf" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=project-automation-cf&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitTestingPat/sql_testing_project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=sql_testing_project&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitTestingPat/cypress-automation-framework" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=cypress-automation-framework&theme=radical&hide_border=true" />
-  </a>
-</p>
+## 🔝 My Key Projects
+
+<a href="https://github.com/GitTestingPat/qa-project-07-es" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=qa-project-07-es&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/GitTestingPat/music-art-ecommerce-api" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=music-art-ecommerce-api&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/GitTestingPat/project-automation-cf" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=project-automation-cf&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/GitTestingPat/sql_testing_project" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=sql_testing_project&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/GitTestingPat/cypress-automation-framework" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitTestingPat&repo=cypress-automation-framework&theme=radical&hide_border=true" />
+</a>
 
 ---
 
