@@ -204,7 +204,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitTestingPat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 ---
 
