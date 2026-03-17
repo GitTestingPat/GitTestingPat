@@ -62,7 +62,8 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ---
 
-
+## <img width="30" height="30" alt="icons8-technology-30" src="https://github.com/user-attachments/assets/07435353-f9a8-49c5-bf4e-3a412286ad2b" />
+Technology Stacks
 
 <!-- 💻 Lenguajes de Programación -->
 <h3 align="center">💻 Programming Languages</h3>
