@@ -62,7 +62,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ---
 
-# 💻 Tech Stack
+
 
 <!-- 💻 Lenguajes de Programación -->
 <h3 align="center">💻 Programming Languages</h3>
