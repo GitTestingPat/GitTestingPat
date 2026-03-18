@@ -182,7 +182,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=GitTestingPat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
