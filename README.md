@@ -229,15 +229,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
----
-
-<p align="center">
-  <i>"Why is there something rather than nothing."</i> — Leibniz.
-</p>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer" />
-
 <p align="center">
   <i>"Why is there something rather than nothing."</i> — Leibniz.
 </p>
