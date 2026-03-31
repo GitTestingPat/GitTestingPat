@@ -190,7 +190,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats ///////
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
