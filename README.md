@@ -65,7 +65,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## <img width="30" height="30" alt="icons8-technology-30" src="https://github.com/user-attachments/assets/ea30cffb-052e-4d3c-ab65-98edc1c30879" /> Technology Stacks
 
 <!-- 💻 Lenguajes de Programación -->
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="center">💻 Programming Languages</h3> $$$$$
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
