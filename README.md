@@ -230,7 +230,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 </p>
 
 <p align="center">
-  <i>"Why is there something rather than nothing."</i> — Leibniz.
+  <i>"Why is there something rather than nothing?"</i> — Leibniz.
 </p>
 
 <!-- Footer wave -->
