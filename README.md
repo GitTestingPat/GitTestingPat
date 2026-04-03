@@ -13,7 +13,7 @@
 ---
 
 # 💫 About Testing 
-///////
+
 Is not about following scripts or mastering tools, but about constantly questioning, investigating and learning.
 
 Testing as a cognitive process where curiosity, systematic skepticism and contextual interpretation are the basis.
