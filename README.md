@@ -175,7 +175,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 ---
 
-## 🎓 Certifications & Learning 
+## 🎓 Certifications & Learning --->
 
 <p align="center">
   <img src="https://img.shields.io/badge/TripleTen-QA_Bootcamp-blue?style=for-the-badge" alt="TripleTen" />
