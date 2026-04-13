@@ -225,8 +225,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 | [`cypress-automation-framework`](https://github.com/GitTestingPat/cypress-automation-framework) | Automatización E2E con Cypress (en desarrollo activo). |
 
 ---
-
+****************************************
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer" />
-****************************************
 
