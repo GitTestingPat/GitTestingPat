@@ -13,7 +13,6 @@
 ---
 ****************************************
 ****************************************
-****************************************
 # 💫 About Testing
 
 Is not about following scripts or mastering tools, but about constantly questioning, investigating and learning.
@@ -229,4 +228,5 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer" />
+****************************************
 
