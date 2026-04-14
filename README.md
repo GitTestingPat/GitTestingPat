@@ -19,7 +19,7 @@ Is not about following scripts or mastering tools, but about constantly question
 
 Testing as a cognitive process where curiosity, systematic skepticism and contextual interpretation are the basis.
 
-**Principles**: ------
+**Principles**: 
 
 - **Testing is an intellectual activity**: no "automated" thinking or delegated observation. Every test is a question about software behavior.
 
