@@ -174,7 +174,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 </p>
 
 ---
-
+****************************************
 ## 🎓 Certifications & Learning
 
 <p align="center">
