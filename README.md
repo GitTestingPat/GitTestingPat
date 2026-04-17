@@ -52,7 +52,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ---
 ## 🌐 Socials  
 
-
 <p align="center">
   <a href="https://linkedin.com/in/patricgallardo">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
