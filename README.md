@@ -32,6 +32,7 @@ Testing as a cognitive process where curiosity, systematic skepticism and contex
 I'm useful to teams that ship under pressure and need someone who can find real risks fast—without slowing things down or hiding behind process.
 
 ---
+
 ****************************************
 ****************************************
 
