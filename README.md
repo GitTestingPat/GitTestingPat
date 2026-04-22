@@ -35,6 +35,9 @@ I'm useful to teams that ship under pressure and need someone who can find real 
 ****************************************
 ****************************************
 
+
+
+
 # 📜 Manifesto for Agile Software Development
 
 
