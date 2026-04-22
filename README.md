@@ -38,7 +38,6 @@ I'm useful to teams that ship under pressure and need someone who can find real 
 
 # 📜 Manifesto for Agile Software Development
 
-
 **We are uncovering better ways of developing software by doing it and helping others do it**.
 
 **Through this work we have come to value**:
