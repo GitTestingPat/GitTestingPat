@@ -22,7 +22,6 @@
 
 
 
-
 # 💫 About Testing
 
 Is not about following scripts or mastering tools, but about constantly questioning, investigating and learning.
