@@ -195,12 +195,12 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-delta-orpin-86.vercel.app/api?username=GitTestingPat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-delta-orpin-86.vercel.app/api/top-langs/?username=GitTestingPat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
