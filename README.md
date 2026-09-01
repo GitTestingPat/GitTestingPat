@@ -200,7 +200,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GitTestingPat&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
