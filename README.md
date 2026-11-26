@@ -80,7 +80,7 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Antigravity-AI_Editor-6A0DAD?style=for-the-badge&logoColor=white" alt="Antigravity AI Editor" />
-  <img src="https://img.shields.io/badge/warp-AI%20Editor?style=for-the-badge&logoColor=white&color=orange&labelColor=black" alt="Warp" />
+  <img src="https://img.shields.io/static/v1?label=Warp&message=AI%20Editor&color=FF7A1A&style=for-the-badge&labelColor=0B0F17&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTQuNiA2LjIgMTAuNCAxMmwtNS44IDUuOCAxLjkgMS45TDE0LjIgMTIgNi41IDQuM3pNMTMuNiAxNi4xaDYuMXYyLjZoLTYuMXoiLz48L3N2Zz4%3D" alt="Warp AI Editor" />
 </p>
 
 <!-- 🧪 Testing & Automatización -->
