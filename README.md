@@ -5,8 +5,6 @@
 <!-- Métricas de perfil -->
 <p align="center">
   <img src="https://img.shields.io/badge/Principle-Testing%20in%20Service%20of%20Doubt-8E44AD?style=for-the-badge" alt="Testing in Service of Doubt" />
-  <img src="https://img.shields.io/badge/Antigravity-AI_Editor-6A0DAD?style=for-the-badge&logoColor=white" alt="Antigravity AI Editor" />
-  <img src="https://img.shields.io/badge/Warp-Terminal-FF4B2B?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" />
 </p>
 
 ---
@@ -79,8 +77,8 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Antigravity-Project-blue?style=for-the-badge" alt="Antigravity" />
-<img src="https://img.shields.io/badge/Warp-Terminal-orange?style=for-the-badge" alt="Warp" />
+  <img src="https://img.shields.io/badge/Antigravity-AI_Editor-6A0DAD?style=for-the-badge&logoColor=white" alt="Antigravity AI Editor" />
+  <img src="https://img.shields.io/badge/Warp-Terminal-FF4B2B?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" />
 </p>
 
 <!-- 🧪 Testing & Automatización -->
