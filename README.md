@@ -79,7 +79,8 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Antigravity-blue?style=flat">
+  <img src="https://img.shields.io/badge/Antigravity-Project-blue?style=for-the-badge" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Warp-Terminal-orange?style=for-the-badge" alt="Warp" />
 </p>
 
 <!-- 🧪 Testing & Automatización -->
