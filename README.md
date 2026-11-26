@@ -82,10 +82,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" />
 </p>
 
 <!-- 🧪 Testing & Automatización -->
@@ -104,17 +100,13 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 <h3 align="center">🔌 API Testing & Proxy</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Proxyman-6C5CE7?style=for-the-badge&logo=proxyman&logoColor=white" alt="Proxyman" />
-  <img src="https://img.shields.io/badge/Charles-F3F3F3?style=for-the-badge&logo=charles&logoColor=black" alt="Charles" />
 </p>
 
 <!-- ⚡ Performance Testing -->
 <h3 align="center">⚡ Performance Testing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
-  <img src="https://img.shields.io/badge/BlazeMeter-CA4245?style=for-the-badge&logo=BlazeMeter&logoColor=white" alt="BlazeMeter" />
 </p>
 
 <!-- 🚀 CI/CD & Control de Versiones -->
@@ -122,14 +114,12 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 <!-- 📦 Gestores de Paquetes & Dependencias -->
 <h3 align="center">📦 Package Managers & Dependencies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
@@ -140,9 +130,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
-  <img src="https://img.shields.io/badge/XRay-00bbff?style=for-the-badge&logo=XRay&logoColor=white" alt="Xray" />
-  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
 </p>
 
 <!-- 📝 Documentación & Diseño -->
