@@ -57,9 +57,6 @@ _<ins>**"Lisa Crispin and Janet Gregory"**</ins>._
   <a href="https://linkedin.com/in/patricgallardo">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/GitTestingPat">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
