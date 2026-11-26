@@ -5,8 +5,8 @@
 <!-- Métricas de perfil -->
 <p align="center">
   <img src="https://img.shields.io/badge/Principle-Testing%20in%20Service%20of%20Doubt-8E44AD?style=for-the-badge" alt="Testing in Service of Doubt" />
-  <img src="https://img.shields.io/badge/Probing%20Systems-Risk%20Alert-3DDC84?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Antigravity-AI_Editor-6A0DAD?style=for-the-badge&logoColor=white" alt="Antigravity AI Editor" />
+  <img src="https://img.shields.io/badge/Warp-Terminal-FF4B2B?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" />
 </p>
 
 ---
